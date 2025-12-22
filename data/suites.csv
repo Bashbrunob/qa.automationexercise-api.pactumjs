@@ -1,5 +1,5 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "","164","deve cadastrar um novo usuário com sucesso","User Suite","2025-12-22","passed","2025-12-22","","","",""
-"","180","deve cadastrar um novo produto com sucesso","Product Suite","2025-12-22","passed","2025-12-22","","","",""
-"","178","deve realizar login com sucesso","Login Suite","2025-12-22","passed","2025-12-22","","","",""
 "","158","deve excluir o usuário pelo ID","User Suite","2025-12-22","passed","2025-12-22","","","",""
+"","178","deve realizar login com sucesso","Login Suite","2025-12-22","passed","2025-12-22","","","",""
+"","180","deve cadastrar um novo produto com sucesso","Product Suite","2025-12-22","passed","2025-12-22","","","",""
