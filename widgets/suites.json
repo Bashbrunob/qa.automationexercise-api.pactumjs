@@ -1,1 +1,1 @@
-{"total":3,"items":[{"uid":"c6c5766d118cabeb5c94496a628c97e0","name":"User Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"76cf16f6aefd32b464cf41495e8d8f45","name":"Login Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"1e050d80129043e3d2491141bd1972ad","name":"Product Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":0,"items":[]}
